@@ -8,9 +8,8 @@ DonutNET is C# version of popular spinning donut. Code is based of code made by 
 
 ## Usage
 
-Just download the code, and then run code below in the directory where Program.cs is
+Just download the code, and then run command below in the directory where Program.cs is
 
 ```
-    dotnet run
-
+dotnet run
 ```
